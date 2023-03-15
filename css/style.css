@@ -1,0 +1,157 @@
+body {
+    background-color: #202020;
+
+}
+.MRect {
+    position: absolute;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+}
+.rect {
+    width: 600px;
+    height: 583px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(1px);
+    border-radius: 50px;
+}
+.Mlogin {
+    position: absolute;
+    width: 407px;
+    height: 80px;
+    left: 96px;
+    top: 0px;
+
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 0px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.login {
+    position: absolute;
+    width: 530px;
+    height: 70px;
+    left: 35px;
+    top: 146px;
+    background: rgba(138, 138, 138, 0.4);
+    backdrop-filter: blur(2px);
+    border-radius: 50px;
+    border: 0px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+    text-align: center;
+
+color: #FFFFFF;
+}
+.login::placeholder {
+    position: absolute;
+    width: 148px;
+    height: 49px;
+    left: 11px;
+    top: 15px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.login:focus {
+    position: absolute;
+    width: 530px;
+    height: 70px;
+    left: 35px;
+    top: 146px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    outline: none;
+}
+
+
+.pass {
+    position: absolute;
+    width: 530px;
+    height: 70px;
+    left: 35px;
+    top: 272px;
+    background: rgba(138, 138, 138, 0.4);
+    backdrop-filter: blur(2px);
+    border-radius: 50px;
+    border: 0px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+    text-align: center;
+
+color: #FFFFFF;
+}
+.pass::placeholder {
+    position: absolute;
+    width: 148px;
+    height: 49px;
+    left: 11px;
+    top: 15px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 0px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.pass:focus {
+    position: absolute;
+    width: 530px;
+    height: 70px;
+    left: 35px;
+    top: 272px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    outline: none;
+}
+
+
+
+
+
+
+.button_login {
+    position: absolute;
+    width: 340px;
+    height: 100px;
+    left: 130px;
+    top: 453px;
+    border: 0px;
+    background: rgba(138, 138, 138, 0.4);
+    backdrop-filter: blur(2px);
+    border-radius: 50px;
+    font-family: 'Comic Sans MS';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 67px;
+    text-align: center;
+    color: #FFFFFF;
+}
